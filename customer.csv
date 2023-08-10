@@ -1,0 +1,1001 @@
+custid,gender,income_level,zip_code,state,household_type
+1,F,medium,94783,DC,warehouse
+2,M,very low,82122,PA,other
+3,M,high,74064,CA,warehouse
+4,M,high,6055,NJ,house
+5,F,high,31273,AL,other
+6,M,very high,29120,CA,lounge
+7,M,high,27433,HI,apartment
+8,F,very low,70104,PA,warehouse
+9,F,low,87176,NY,house
+10,M,very high,83045,OH,apartment
+11,F,low,80091,TX,warehouse
+12,F,medium,11449,OH,house
+13,F,very low,43493,NC,apartment
+14,M,medium,43265,OH,warehouse
+15,F,high,24054,OH,house
+16,M,high,13359,NY,lounge
+17,M,medium,59801,MS,other
+18,M,low,80485,CO,warehouse
+19,F,high,53334,KS,other
+20,F,high,38471,TX,lounge
+21,F,medium,54242,OH,house
+22,M,very low,27023,TX,warehouse
+23,F,high,89092,WA,warehouse
+24,F,very low,13550,CA,apartment
+25,F,medium,54891,FL,studio
+26,F,very high,5063,IL,house
+27,M,low,32104,NY,apartment
+28,F,very low,24106,WA,warehouse
+29,F,high,12263,MO,lounge
+30,F,medium,58421,CA,house
+31,M,very high,44695,TX,studio
+32,M,very high,65171,GA,other
+33,F,very low,85324,NY,house
+34,F,very high,89120,TX,house
+35,F,very low,82142,CA,house
+36,M,medium,10603,PA,other
+37,F,very high,13883,IN,other
+38,F,very low,92128,NC,house
+39,M,very high,2553,TX,warehouse
+40,F,medium,22240,LA,apartment
+41,M,medium,68591,FL,studio
+42,F,medium,84168,DC,house
+43,M,high,10526,MO,studio
+44,F,very high,66491,TX,apartment
+45,M,medium,92217,CA,lounge
+46,F,medium,54883,FL,lounge
+47,F,high,84233,FL,lounge
+48,M,medium,59069,AR,apartment
+49,M,low,15373,CO,apartment
+50,F,very low,94634,OH,other
+51,F,medium,14264,NM,studio
+52,F,high,2863,FL,studio
+53,M,high,93840,PA,other
+54,M,high,60611,PA,other
+55,F,low,76932,NY,warehouse
+56,F,low,13523,AZ,apartment
+57,M,very high,61838,CA,lounge
+58,M,very low,68396,LA,warehouse
+59,M,medium,47049,WA,house
+60,M,medium,98907,CO,studio
+61,F,low,46616,GA,studio
+62,M,very low,21570,DC,studio
+63,F,very low,8248,MD,house
+64,F,medium,76651,IL,house
+65,M,very high,75175,WI,lounge
+66,F,high,65746,MN,warehouse
+67,F,medium,42453,NY,lounge
+68,F,medium,92450,TX,warehouse
+69,M,high,39750,TX,warehouse
+70,F,very low,52982,GA,studio
+71,M,very low,61049,CA,apartment
+72,F,high,7451,NV,warehouse
+73,F,medium,13660,FL,other
+74,F,high,13660,DC,warehouse
+75,M,low,16235,TX,other
+76,M,very high,1035,AR,apartment
+77,M,medium,41738,ID,house
+78,F,very low,4114,OK,warehouse
+79,M,very high,48120,IL,house
+80,M,low,1700,MO,apartment
+81,M,low,83230,MI,lounge
+82,F,very low,6090,MN,other
+83,M,very low,12963,LA,warehouse
+84,F,low,66236,CO,warehouse
+85,M,very high,96275,TX,lounge
+86,F,low,52310,GA,warehouse
+87,M,very high,71754,OH,apartment
+88,F,low,46884,CA,studio
+89,F,medium,75773,NJ,warehouse
+90,F,very high,19486,IL,apartment
+91,M,very high,36687,VA,studio
+92,F,medium,82311,AL,other
+93,F,low,22269,PA,apartment
+94,F,very low,67487,NY,house
+95,M,medium,27504,VA,studio
+96,F,very high,81467,SC,house
+97,F,low,96287,FL,lounge
+98,M,low,96268,CA,studio
+99,F,medium,20390,IN,apartment
+100,F,very high,60650,TX,warehouse
+101,M,very low,54527,AL,house
+102,F,very low,32265,IA,apartment
+103,F,very low,15468,IN,lounge
+104,M,high,83649,TX,apartment
+105,M,very high,50199,CA,other
+106,F,medium,72275,NV,apartment
+107,F,very high,20219,CA,house
+108,M,very low,17365,DC,lounge
+109,M,very low,75996,CA,other
+110,F,very high,82771,IA,lounge
+111,M,very low,83196,PA,other
+112,M,medium,22600,DC,lounge
+113,M,very high,17186,ID,lounge
+114,M,medium,13630,IN,lounge
+115,M,very high,30346,CA,other
+116,M,very low,73350,GA,warehouse
+117,M,very high,91045,MN,warehouse
+118,M,medium,17831,GA,house
+119,M,medium,86425,CA,apartment
+120,M,very high,96122,CA,apartment
+121,M,very high,5859,DC,house
+122,F,high,56637,WV,apartment
+123,F,medium,50646,AZ,warehouse
+124,M,very high,2362,GA,lounge
+125,M,medium,81445,NV,apartment
+126,M,high,8470,AL,lounge
+127,F,medium,87300,PA,house
+128,F,very high,41328,CA,warehouse
+129,M,very low,55252,SC,house
+130,F,low,91378,OK,lounge
+131,F,very high,8748,TX,warehouse
+132,M,high,67919,TX,lounge
+133,F,very high,80889,MT,lounge
+134,F,very low,79624,DC,other
+135,F,low,3426,CT,other
+136,M,medium,98031,UT,apartment
+137,M,low,46818,HI,apartment
+138,F,medium,64070,OH,apartment
+139,M,very low,25475,SC,house
+140,M,medium,13549,WA,warehouse
+141,M,very high,94705,NY,house
+142,M,medium,13722,NY,lounge
+143,M,low,70849,TN,other
+144,F,medium,69064,MO,house
+145,F,medium,17630,UT,house
+146,F,low,69278,SC,other
+147,M,high,4455,CA,warehouse
+148,M,very low,54588,NV,lounge
+149,M,very high,25833,KS,warehouse
+150,M,high,33567,WV,apartment
+151,M,medium,26835,IA,house
+152,M,low,30899,CA,apartment
+153,M,very low,2613,MI,other
+154,F,very high,10623,FL,other
+155,F,high,97347,TX,studio
+156,F,high,51041,NY,apartment
+157,M,very high,28248,KY,warehouse
+158,M,low,82541,TX,apartment
+159,F,high,99822,KS,apartment
+160,M,low,28058,PA,studio
+161,F,very low,71017,KY,other
+162,F,very low,62340,VA,studio
+163,F,very high,82374,PA,house
+164,M,very low,28403,DE,house
+165,F,medium,3338,TN,studio
+166,F,high,38303,CA,other
+167,F,medium,25858,TX,studio
+168,F,very high,32562,TN,apartment
+169,M,very high,44131,NE,apartment
+170,M,low,17980,MA,studio
+171,M,low,22389,IL,apartment
+172,M,medium,90016,AZ,studio
+173,M,medium,24269,TX,apartment
+174,F,high,45436,MO,house
+175,M,low,49406,CA,studio
+176,F,very high,67799,OH,other
+177,F,low,75745,VA,house
+178,F,low,89561,IL,warehouse
+179,M,low,83958,CO,studio
+180,F,high,70767,CA,other
+181,F,low,60627,LA,other
+182,M,medium,29212,NM,lounge
+183,M,high,77387,TX,warehouse
+184,F,low,35579,FL,house
+185,F,very high,44160,CO,other
+186,F,medium,44321,OR,lounge
+187,F,very low,49324,NY,apartment
+188,F,high,71962,FL,studio
+189,F,very high,95342,AL,house
+190,F,low,92714,OR,warehouse
+191,M,very high,83847,KY,lounge
+192,M,low,28195,NY,house
+193,F,very low,62591,ID,house
+194,M,low,55263,NC,other
+195,F,medium,66864,TX,studio
+196,M,high,74871,OK,house
+197,M,medium,53741,VA,lounge
+198,M,very low,10693,IL,lounge
+199,F,low,83288,MI,other
+200,M,very low,7691,MO,studio
+201,F,low,27438,NY,warehouse
+202,F,very low,82250,NJ,lounge
+203,M,low,75913,CO,house
+204,M,high,36948,MA,lounge
+205,M,low,4752,PA,studio
+206,M,medium,27455,DC,warehouse
+207,F,very high,88075,WA,apartment
+208,M,very high,80134,TX,warehouse
+209,M,high,72796,UT,apartment
+210,M,very low,75314,AR,other
+211,F,very high,1041,NE,house
+212,F,low,1021,DC,studio
+213,M,very high,99729,CA,other
+214,M,medium,84726,CO,other
+215,M,low,323,NY,lounge
+216,M,high,94210,NM,apartment
+217,F,medium,59537,CA,house
+218,M,very low,44115,CA,lounge
+219,F,very low,12809,DC,house
+220,M,low,82233,CA,apartment
+221,M,high,44966,IL,studio
+222,M,very high,26735,NY,studio
+223,F,high,61346,WI,studio
+224,M,very high,74687,UT,other
+225,M,low,27680,OH,warehouse
+226,M,low,24892,CO,house
+227,F,very low,27648,CA,warehouse
+228,M,medium,31762,AZ,house
+229,F,very low,88007,CA,warehouse
+230,F,very high,18828,OH,warehouse
+231,M,very high,58647,TX,apartment
+232,F,high,72294,TX,lounge
+233,M,low,7630,HI,studio
+234,F,medium,89239,OH,house
+235,M,very high,68452,AL,house
+236,F,low,18840,MI,house
+237,M,low,49924,FL,apartment
+238,F,very low,24451,CA,warehouse
+239,F,medium,60102,VA,studio
+240,F,low,58257,GA,studio
+241,F,low,41894,IN,warehouse
+242,F,low,73989,MD,other
+243,F,high,45945,WI,studio
+244,M,high,75541,AL,other
+245,F,high,80312,PA,studio
+246,F,low,79760,CA,apartment
+247,M,medium,9669,FL,warehouse
+248,M,very high,46137,PA,house
+249,F,low,9070,NY,other
+250,F,high,13310,NY,warehouse
+251,F,very high,82260,AR,studio
+252,M,very high,80069,IN,house
+253,F,low,32654,TX,studio
+254,F,very low,30894,NC,apartment
+255,F,very low,19662,NV,apartment
+256,F,very high,69936,TX,house
+257,F,medium,16023,CA,studio
+258,F,medium,63454,AR,other
+259,M,very low,34038,OH,other
+260,M,medium,32566,DC,lounge
+261,F,very high,5439,MI,lounge
+262,F,very high,78720,NY,other
+263,F,very low,59960,NC,lounge
+264,F,very high,4307,LA,lounge
+265,F,low,48135,TX,apartment
+266,M,very low,28659,TX,lounge
+267,F,low,53460,DC,apartment
+268,M,high,70465,DC,apartment
+269,M,high,12469,LA,studio
+270,M,very low,27186,NY,other
+271,F,very low,68250,NY,warehouse
+272,M,very high,98838,GA,studio
+273,M,very high,42573,FL,apartment
+274,F,medium,21511,TX,apartment
+275,M,very low,6802,DC,warehouse
+276,M,very high,55415,MI,lounge
+277,F,medium,26146,NC,lounge
+278,F,medium,77286,MD,lounge
+279,F,very high,92420,MO,lounge
+280,M,very low,87703,IN,studio
+281,F,high,59266,IN,house
+282,F,medium,45759,NY,studio
+283,M,very high,51379,CO,studio
+284,F,low,56516,SC,apartment
+285,M,low,34666,VA,house
+286,M,medium,79843,CA,studio
+287,F,medium,80807,TX,apartment
+288,M,high,45173,WV,apartment
+289,M,high,47377,OH,warehouse
+290,M,low,47405,RI,studio
+291,M,very low,94747,OR,lounge
+292,F,medium,12911,AZ,warehouse
+293,F,very high,43115,PA,apartment
+294,F,very low,69978,MN,other
+295,F,very high,16186,TX,apartment
+296,M,medium,17257,IL,house
+297,F,medium,94336,NY,other
+298,F,very low,42399,IL,warehouse
+299,M,very low,13357,CO,house
+300,M,very low,79511,VA,warehouse
+301,F,high,54816,PA,studio
+302,M,high,67073,TX,lounge
+303,M,medium,25067,CA,lounge
+304,M,very high,14077,MA,house
+305,M,high,26957,CA,house
+306,F,high,86116,MO,other
+307,F,very low,1482,KY,other
+308,M,very high,30921,IL,lounge
+309,M,low,80367,OK,lounge
+310,F,very high,51709,AL,lounge
+311,M,medium,3486,WA,apartment
+312,F,medium,26132,VA,warehouse
+313,F,high,50113,MN,apartment
+314,F,very high,5517,MS,lounge
+315,F,high,32203,VA,warehouse
+316,F,very low,1620,WA,warehouse
+317,F,very low,54507,TX,lounge
+318,M,very high,5727,AL,lounge
+319,F,very low,10960,CT,warehouse
+320,M,low,30330,NV,house
+321,M,medium,37402,CA,lounge
+322,F,very high,46554,WI,warehouse
+323,F,very high,77726,FL,warehouse
+324,M,medium,61279,OH,lounge
+325,F,medium,31963,PA,apartment
+326,F,medium,66398,OK,warehouse
+327,M,very low,23057,KS,other
+328,F,high,72318,TX,house
+329,F,very low,24031,FL,lounge
+330,M,very high,87152,CA,house
+331,M,very high,43854,NY,other
+332,F,very high,72634,NE,warehouse
+333,F,high,62852,AZ,studio
+334,F,medium,32345,VA,warehouse
+335,F,very low,44477,GA,lounge
+336,M,very low,51903,KY,studio
+337,F,high,34754,CA,studio
+338,F,very high,74143,GA,warehouse
+339,F,very high,46858,MO,apartment
+340,F,very low,29035,TN,warehouse
+341,F,very low,99443,FL,studio
+342,F,very low,8815,TX,house
+343,F,medium,95147,TX,house
+344,M,high,25796,NY,other
+345,F,high,44021,DE,apartment
+346,M,medium,5858,NY,studio
+347,M,very high,79753,IA,warehouse
+348,F,very high,49929,IL,lounge
+349,M,high,25638,LA,studio
+350,F,very low,10176,DC,apartment
+351,F,medium,3736,KY,apartment
+352,M,very low,68576,CA,house
+353,M,high,77886,CA,studio
+354,F,low,63938,ID,apartment
+355,M,very low,94336,FL,studio
+356,F,very low,83332,OH,other
+357,F,very high,23570,OH,other
+358,M,very low,25914,FL,warehouse
+359,M,low,85415,AK,other
+360,M,very low,25935,WV,other
+361,F,high,1726,FL,warehouse
+362,M,medium,81823,NY,apartment
+363,F,low,79907,NY,house
+364,F,low,48662,VA,studio
+365,F,medium,65709,OR,apartment
+366,M,very low,2325,TX,studio
+367,M,high,96587,CA,lounge
+368,M,very high,37274,TX,other
+369,F,low,54104,CA,apartment
+370,F,high,90016,MN,warehouse
+371,F,low,61449,DC,other
+372,M,very low,8852,FL,warehouse
+373,F,medium,16140,ID,house
+374,M,very high,1011,DC,lounge
+375,M,low,17901,OK,apartment
+376,M,very high,97325,VA,warehouse
+377,M,very high,10609,TX,warehouse
+378,F,very low,91245,LA,warehouse
+379,F,very high,72915,IL,apartment
+380,M,medium,75658,MD,house
+381,F,very low,8108,TN,house
+382,F,low,34336,KS,lounge
+383,F,very low,47478,MO,apartment
+384,F,medium,5301,NC,apartment
+385,F,low,71910,NJ,lounge
+386,F,very low,52064,CT,studio
+387,F,low,62733,NY,house
+388,F,very low,22535,CO,studio
+389,M,low,15276,FL,other
+390,F,very low,19356,VA,other
+391,F,medium,74923,WA,house
+392,M,high,53199,GA,warehouse
+393,M,very low,49344,DC,studio
+394,M,very low,90807,KS,apartment
+395,M,high,37633,MO,lounge
+396,F,high,66828,MI,studio
+397,F,medium,31557,TX,apartment
+398,M,medium,82924,CA,studio
+399,F,very low,90441,MO,warehouse
+400,F,very low,85200,CT,lounge
+401,F,medium,85940,TN,apartment
+402,M,high,30854,OK,lounge
+403,M,very high,53976,CA,other
+404,F,medium,82078,KY,warehouse
+405,F,medium,50371,TX,studio
+406,F,medium,2275,TX,studio
+407,M,high,97130,IL,warehouse
+408,M,high,34084,CA,warehouse
+409,M,high,42118,GA,house
+410,M,high,70794,CO,house
+411,F,medium,87141,KS,studio
+412,M,low,2886,MI,other
+413,F,very high,70778,WA,studio
+414,M,very high,93252,OH,other
+415,F,low,11022,CT,warehouse
+416,F,high,19941,KY,warehouse
+417,F,medium,16312,NY,other
+418,F,low,90757,NC,studio
+419,M,low,12976,CA,studio
+420,F,high,96048,LA,other
+421,M,high,58924,VA,studio
+422,M,high,9045,MI,lounge
+423,F,very low,69827,CA,house
+424,M,very low,78019,TX,warehouse
+425,F,very high,40641,NC,other
+426,M,high,33593,CA,studio
+427,F,low,84490,NY,warehouse
+428,M,low,95768,OH,other
+429,F,high,29934,AK,warehouse
+430,F,very high,62285,TX,warehouse
+431,M,very high,53002,AZ,lounge
+432,M,medium,94697,OH,apartment
+433,M,very low,17739,LA,lounge
+434,M,low,58683,CT,apartment
+435,M,very low,37090,TX,apartment
+436,M,very low,10766,OK,lounge
+437,M,low,39676,WA,other
+438,M,low,48215,IL,lounge
+439,F,very high,68308,CA,apartment
+440,M,high,2156,DC,apartment
+441,M,very high,53453,MI,lounge
+442,F,low,27351,AK,apartment
+443,F,high,55508,CA,apartment
+444,M,very low,9240,MI,studio
+445,F,low,3952,FL,other
+446,F,high,45048,VA,apartment
+447,M,very high,79927,IN,other
+448,M,low,68395,TX,studio
+449,M,medium,79313,CA,studio
+450,M,medium,81392,MD,apartment
+451,M,medium,73719,NY,house
+452,F,medium,97906,TX,lounge
+453,F,very low,91918,NY,warehouse
+454,F,very low,63032,MI,other
+455,F,low,5790,GA,house
+456,F,very low,61303,CT,lounge
+457,M,very low,28523,NY,warehouse
+458,M,very low,51610,UT,lounge
+459,F,high,43629,TX,warehouse
+460,M,medium,89398,AZ,apartment
+461,F,high,95345,FL,other
+462,F,high,60115,NY,house
+463,F,very high,35901,TN,warehouse
+464,F,high,92650,IA,studio
+465,M,very high,1799,TX,lounge
+466,F,very high,55473,TN,apartment
+467,F,medium,11127,CA,lounge
+468,F,medium,90663,NY,apartment
+469,M,low,6406,MA,warehouse
+470,F,high,70129,NY,studio
+471,F,medium,93417,OK,lounge
+472,F,very high,78394,CA,other
+473,M,very high,38311,TX,house
+474,M,high,13173,OK,apartment
+475,M,very low,77084,TX,apartment
+476,F,high,88619,GA,studio
+477,M,high,57328,FL,apartment
+478,F,very high,28602,IL,house
+479,F,medium,83046,GA,lounge
+480,F,low,81677,FL,lounge
+481,M,medium,6656,IN,apartment
+482,M,very high,15630,TX,studio
+483,M,very high,1697,TN,house
+484,M,very low,30002,CA,other
+485,F,medium,9628,WV,other
+486,M,very high,67529,WI,lounge
+487,F,very low,93809,WV,studio
+488,F,high,78403,SC,other
+489,M,low,5773,MO,warehouse
+490,F,high,62935,VA,house
+491,F,very low,74090,LA,house
+492,M,very low,8678,MO,studio
+493,F,very high,25685,IA,house
+494,M,high,375,MD,apartment
+495,M,high,4209,TX,studio
+496,M,low,48481,CA,warehouse
+497,M,very low,28226,TX,apartment
+498,M,high,95554,AZ,apartment
+499,F,low,51583,NC,apartment
+500,M,low,22751,CA,warehouse
+501,M,very low,3270,TN,house
+502,F,medium,88121,CA,warehouse
+503,F,very low,48054,TX,studio
+504,M,high,73875,CA,apartment
+505,F,very high,58778,MD,warehouse
+506,F,high,8240,WV,house
+507,F,very low,3978,TX,lounge
+508,M,very high,94911,TX,house
+509,F,very high,31455,MO,apartment
+510,F,medium,19210,VA,apartment
+511,F,medium,41138,NC,apartment
+512,F,medium,51953,TN,apartment
+513,F,very high,4450,HI,other
+514,F,very low,58246,TN,lounge
+515,M,medium,32743,MO,house
+516,F,low,53093,WA,studio
+517,F,low,99815,DC,other
+518,F,medium,22424,CA,studio
+519,M,medium,98281,FL,other
+520,F,very high,80634,NJ,other
+521,M,low,43107,NY,other
+522,F,medium,90810,VA,other
+523,F,high,38086,CA,warehouse
+524,F,low,85328,MD,other
+525,M,very high,43420,TX,warehouse
+526,M,low,58844,TX,other
+527,M,high,57541,WI,house
+528,F,high,50049,FL,apartment
+529,F,medium,82890,NM,other
+530,F,high,99391,CA,apartment
+531,M,low,23938,CA,house
+532,M,very low,63420,TX,other
+533,F,very high,89359,WA,lounge
+534,M,very high,11203,CO,other
+535,F,very high,90749,MO,studio
+536,M,high,44674,NC,apartment
+537,M,high,83783,AL,house
+538,F,high,80180,LA,warehouse
+539,F,medium,3910,MO,lounge
+540,M,very low,84743,CO,apartment
+541,F,medium,38061,MN,other
+542,F,high,91844,MN,studio
+543,M,low,6106,GA,studio
+544,F,high,58582,FL,other
+545,M,very high,65617,OH,apartment
+546,M,medium,48340,AL,lounge
+547,F,low,11765,MA,warehouse
+548,F,medium,24911,KS,lounge
+549,M,medium,62466,CT,warehouse
+550,M,low,34069,IL,studio
+551,M,medium,87073,NY,apartment
+552,M,high,82837,PA,studio
+553,M,high,44534,CA,other
+554,F,medium,81690,CA,house
+555,M,very low,83656,AZ,studio
+556,F,medium,6781,NY,other
+557,F,very low,3221,VA,lounge
+558,M,very low,91066,AZ,other
+559,M,low,16119,MD,warehouse
+560,F,very low,76522,MN,apartment
+561,F,high,29732,OH,warehouse
+562,M,low,6567,LA,house
+563,F,low,38447,CA,lounge
+564,M,very high,79342,UT,apartment
+565,M,very low,51207,CA,warehouse
+566,F,medium,59043,TX,house
+567,F,medium,34964,FL,lounge
+568,M,very low,14277,NY,house
+569,F,medium,84974,LA,studio
+570,F,very low,26008,OH,lounge
+571,M,medium,89522,DC,warehouse
+572,F,very high,89932,GA,other
+573,F,low,7638,HI,other
+574,M,high,79109,DC,lounge
+575,F,very low,57233,KY,studio
+576,M,high,77931,NY,apartment
+577,M,medium,69294,NM,apartment
+578,F,very high,53919,IL,warehouse
+579,F,low,9619,PA,warehouse
+580,F,very high,72479,MN,warehouse
+581,M,very low,47790,TX,warehouse
+582,F,high,18997,TX,lounge
+583,F,very low,29541,CA,studio
+584,M,very low,27734,ND,lounge
+585,M,very low,3653,CT,apartment
+586,F,very low,97812,CO,house
+587,M,high,94291,VA,apartment
+588,F,very high,76057,TN,studio
+589,F,very high,24844,TX,other
+590,F,low,54030,CT,other
+591,F,high,27315,AL,lounge
+592,M,medium,99640,RI,studio
+593,F,medium,98785,AL,lounge
+594,M,low,59169,CO,studio
+595,F,very high,18933,TX,apartment
+596,M,very low,8180,CA,apartment
+597,F,high,95905,CO,warehouse
+598,M,medium,29722,WA,studio
+599,F,very low,16358,NY,warehouse
+600,F,very low,4436,OR,house
+601,F,very high,76671,TX,warehouse
+602,F,medium,29641,WA,lounge
+603,M,high,17218,CA,other
+604,M,very high,12173,KY,lounge
+605,F,high,10974,PA,studio
+606,F,very low,70332,TX,other
+607,M,high,93887,DE,warehouse
+608,M,very low,87745,NY,apartment
+609,M,low,41243,FL,warehouse
+610,M,medium,99425,VA,apartment
+611,F,medium,33759,CA,studio
+612,M,high,43783,AL,warehouse
+613,F,very low,73964,NY,lounge
+614,M,high,76980,IL,warehouse
+615,M,medium,70549,MN,house
+616,F,very high,74679,TX,other
+617,M,medium,20966,AZ,apartment
+618,F,high,26583,CA,studio
+619,F,very high,33554,IL,other
+620,F,very low,49835,WV,warehouse
+621,F,very high,96801,CO,warehouse
+622,M,medium,56659,NY,studio
+623,M,high,16972,MS,other
+624,M,very high,1598,MI,apartment
+625,M,low,72296,WV,apartment
+626,M,medium,61843,LA,lounge
+627,F,high,436,KY,warehouse
+628,F,very high,37293,FL,apartment
+629,M,very high,58513,MD,other
+630,M,very low,17854,VA,studio
+631,M,high,59784,PA,studio
+632,M,very low,73336,CA,apartment
+633,F,low,70924,OK,warehouse
+634,M,high,64985,FL,lounge
+635,M,very high,82344,FL,lounge
+636,M,low,93372,AK,house
+637,M,medium,86233,MO,lounge
+638,M,very low,95772,VA,apartment
+639,M,very high,95854,NY,house
+640,F,high,74438,NY,other
+641,F,very low,48030,TX,studio
+642,F,very high,5923,TX,warehouse
+643,F,medium,50244,OH,other
+644,M,very low,45423,AL,warehouse
+645,F,high,54217,AL,lounge
+646,F,very low,72065,TX,apartment
+647,M,low,65018,FL,house
+648,M,high,62918,UT,house
+649,M,medium,42757,MA,lounge
+650,F,low,91437,ID,apartment
+651,M,very high,78173,FL,apartment
+652,F,very low,13818,NJ,other
+653,M,very low,92079,VA,house
+654,M,very low,68368,IL,apartment
+655,M,medium,68789,DC,lounge
+656,F,very low,27143,IL,other
+657,M,very high,34006,WV,other
+658,M,high,27541,AZ,house
+659,M,very low,44923,MI,house
+660,M,very low,16296,CA,apartment
+661,M,very high,13245,SC,apartment
+662,F,very low,46005,WI,house
+663,M,very high,56070,VA,apartment
+664,M,very high,41440,CA,studio
+665,M,low,30408,NV,studio
+666,F,very low,53396,TX,studio
+667,F,very high,31282,PA,studio
+668,F,very high,43692,OK,apartment
+669,F,medium,3523,TX,studio
+670,M,very low,9023,IN,warehouse
+671,F,very high,45784,CA,other
+672,F,high,30440,MO,house
+673,M,high,60717,CA,other
+674,M,very high,52823,MS,house
+675,F,very low,51476,NE,apartment
+676,M,very high,65090,FL,house
+677,M,very high,77873,VA,lounge
+678,F,medium,87712,IL,house
+679,F,very high,95197,MO,house
+680,F,low,57887,OH,studio
+681,M,medium,79258,MN,studio
+682,F,medium,37446,OR,warehouse
+683,F,very low,36502,AZ,other
+684,M,very high,79557,TX,apartment
+685,F,very high,96777,HI,lounge
+686,M,very high,3541,MD,studio
+687,M,medium,13460,IN,studio
+688,M,very low,27419,VA,lounge
+689,M,medium,56160,CA,studio
+690,F,very high,40807,KS,studio
+691,F,very low,57151,MN,warehouse
+692,M,very high,64192,CA,house
+693,F,low,9413,CA,house
+694,F,low,59114,VA,house
+695,F,medium,80096,KY,other
+696,M,low,71687,NC,lounge
+697,F,very low,68668,FL,warehouse
+698,F,medium,209,CO,apartment
+699,M,very high,43668,DC,studio
+700,M,very high,79442,NV,lounge
+701,F,very high,94294,TX,warehouse
+702,F,very low,95803,NJ,lounge
+703,F,very low,65444,FL,warehouse
+704,M,low,87511,TX,house
+705,F,very low,38476,WI,apartment
+706,F,very high,68866,PA,house
+707,F,medium,36083,NY,lounge
+708,M,medium,83727,CO,studio
+709,F,very high,61727,FL,house
+710,F,high,9689,CO,lounge
+711,M,very low,53490,NY,lounge
+712,F,very high,67767,CA,studio
+713,M,medium,70957,DC,apartment
+714,M,medium,50103,CA,other
+715,M,high,96713,PA,warehouse
+716,F,high,14161,MD,other
+717,M,very high,17149,OH,studio
+718,M,high,59184,WI,warehouse
+719,M,high,93180,LA,studio
+720,F,medium,57711,NV,house
+721,F,low,71911,NY,apartment
+722,M,very high,11205,UT,house
+723,M,low,63942,MO,lounge
+724,M,low,75323,FL,studio
+725,M,very low,51232,FL,other
+726,F,medium,42083,CA,studio
+727,M,high,74288,LA,warehouse
+728,F,high,90402,CA,other
+729,M,very high,29212,CA,house
+730,M,low,78453,NY,warehouse
+731,M,low,8783,WV,apartment
+732,M,high,82753,TX,lounge
+733,M,high,48970,OH,apartment
+734,F,low,94076,CT,house
+735,M,very high,98619,TX,lounge
+736,F,very high,49522,FL,lounge
+737,F,high,95499,TX,studio
+738,F,very low,29125,AZ,studio
+739,F,low,54724,CA,warehouse
+740,F,medium,58623,NY,apartment
+741,F,low,77505,IN,other
+742,F,low,44369,PA,warehouse
+743,M,high,79671,CA,lounge
+744,F,medium,23593,OH,house
+745,F,very low,18147,NJ,studio
+746,M,high,95145,NY,apartment
+747,F,very high,93117,MO,warehouse
+748,F,low,63747,GA,other
+749,F,very high,92514,FL,house
+750,M,low,55568,TX,house
+751,F,very high,86787,UT,house
+752,M,low,6568,FL,studio
+753,M,low,93031,MO,apartment
+754,F,low,43957,TX,warehouse
+755,F,medium,38382,OH,lounge
+756,F,medium,62390,VA,lounge
+757,F,medium,70476,VA,house
+758,F,very high,92043,CA,lounge
+759,M,high,17312,MN,other
+760,F,low,38351,WV,apartment
+761,F,low,42052,CA,other
+762,F,very low,22056,TX,other
+763,M,medium,7231,MD,studio
+764,F,low,45781,MD,house
+765,F,very high,41385,AR,other
+766,M,very low,95312,NC,warehouse
+767,F,very high,63937,TN,apartment
+768,M,medium,84216,TX,other
+769,F,high,61058,NY,apartment
+770,F,medium,84861,WI,warehouse
+771,F,high,4773,AL,studio
+772,M,very high,76041,TX,apartment
+773,M,very high,49600,FL,house
+774,M,medium,25162,CT,other
+775,F,high,41661,IL,warehouse
+776,M,low,70914,TX,warehouse
+777,M,medium,44120,MA,lounge
+778,F,medium,32268,VA,lounge
+779,F,very low,30531,WI,lounge
+780,F,low,7032,FL,other
+781,M,low,55064,FL,warehouse
+782,F,high,59421,VA,studio
+783,F,very low,51959,NY,studio
+784,F,medium,55254,MI,apartment
+785,F,high,67204,VA,house
+786,F,very low,47245,CA,other
+787,F,very high,23626,TN,house
+788,F,high,91309,CO,lounge
+789,M,high,3704,FL,lounge
+790,M,medium,78512,MO,apartment
+791,F,low,99188,MO,apartment
+792,M,high,84680,NJ,lounge
+793,F,high,86849,OH,other
+794,M,high,20866,AZ,lounge
+795,M,very high,34289,CA,house
+796,F,high,50771,TN,other
+797,M,medium,5908,CA,house
+798,F,high,11007,CA,warehouse
+799,F,medium,1551,MO,apartment
+800,F,high,19818,NY,lounge
+801,M,high,18604,NM,house
+802,M,very high,88074,CA,house
+803,F,medium,16630,NC,studio
+804,M,high,96688,AZ,warehouse
+805,F,very low,67951,VA,lounge
+806,F,low,65935,TX,lounge
+807,F,high,69558,AL,lounge
+808,M,very high,32983,CA,apartment
+809,F,medium,51514,AL,warehouse
+810,M,very low,67246,FL,other
+811,F,low,26864,CA,studio
+812,M,very high,57025,NY,apartment
+813,M,medium,26108,TX,house
+814,F,very high,48973,OH,lounge
+815,M,high,36474,FL,studio
+816,F,low,18375,DE,other
+817,M,very low,2173,WA,other
+818,M,high,11632,WI,house
+819,M,low,71327,CA,studio
+820,F,medium,29174,CA,other
+821,F,very low,47855,RI,warehouse
+822,M,high,75364,OH,other
+823,F,high,96941,TX,house
+824,F,medium,75872,GA,house
+825,M,very low,60753,LA,house
+826,M,low,99661,KS,other
+827,F,high,24353,AZ,lounge
+828,F,low,46625,NE,lounge
+829,M,medium,41953,IN,studio
+830,F,very high,62364,OH,studio
+831,F,very low,48538,CO,other
+832,F,very low,56433,FL,studio
+833,F,high,16195,VA,other
+834,F,medium,90757,IL,studio
+835,F,very low,19160,SD,lounge
+836,F,high,85959,CA,house
+837,F,high,8410,VA,lounge
+838,M,medium,29442,VA,other
+839,M,medium,93784,MI,warehouse
+840,M,low,36043,TN,lounge
+841,M,very high,5129,OH,studio
+842,M,very high,24830,FL,apartment
+843,F,very low,87498,OK,apartment
+844,F,very high,53027,SC,lounge
+845,M,very low,11121,CA,warehouse
+846,M,low,41145,CA,lounge
+847,F,high,55036,AL,studio
+848,M,very low,52235,FL,lounge
+849,M,medium,80138,NY,house
+850,F,high,27062,FL,warehouse
+851,M,high,20302,NJ,other
+852,F,very low,66240,UT,warehouse
+853,M,high,60446,AZ,apartment
+854,M,low,84388,TN,other
+855,F,medium,2530,CA,apartment
+856,F,medium,17555,CA,warehouse
+857,F,high,5157,CT,warehouse
+858,M,very high,43813,NV,studio
+859,M,very high,31523,OH,studio
+860,F,very low,57361,TX,lounge
+861,F,high,84909,NC,other
+862,M,medium,88522,TX,house
+863,F,very low,76021,MS,house
+864,M,very high,29119,KS,house
+865,F,low,29330,PA,studio
+866,M,high,19027,OR,studio
+867,M,very high,28605,MI,warehouse
+868,F,medium,56202,IL,studio
+869,M,medium,94968,OH,other
+870,F,very low,4294,GA,apartment
+871,M,very low,67537,AL,apartment
+872,F,very low,12620,VA,studio
+873,M,medium,17394,NY,lounge
+874,F,very high,61809,CA,studio
+875,F,high,16146,OH,house
+876,M,very high,86432,KY,other
+877,F,medium,48228,AZ,other
+878,M,low,38436,MD,other
+879,F,medium,52901,FL,house
+880,F,medium,52687,MO,studio
+881,M,high,70021,CO,lounge
+882,F,low,1819,FL,studio
+883,M,medium,19653,WA,other
+884,F,low,24327,TN,warehouse
+885,F,high,5698,OH,warehouse
+886,M,medium,73392,TX,studio
+887,F,medium,4070,VA,other
+888,M,medium,73862,CO,warehouse
+889,F,very high,42082,VA,apartment
+890,M,medium,86531,CA,lounge
+891,M,low,5526,NY,other
+892,F,low,60789,IN,house
+893,F,very high,53514,NY,apartment
+894,M,medium,97792,FL,house
+895,M,high,47760,OK,studio
+896,F,high,67697,NC,studio
+897,M,very low,89552,MI,studio
+898,M,very low,10700,TX,warehouse
+899,F,medium,22154,NJ,studio
+900,M,very low,2185,WV,house
+901,M,medium,10857,TN,apartment
+902,M,very low,82845,MN,warehouse
+903,M,medium,64229,NJ,warehouse
+904,F,very low,82560,KY,studio
+905,F,very low,99180,NC,lounge
+906,F,medium,9314,TX,apartment
+907,M,very low,19710,NY,warehouse
+908,M,high,61718,MI,house
+909,F,very low,38777,TX,house
+910,M,medium,97594,CA,warehouse
+911,M,low,10962,FL,other
+912,M,medium,65962,TX,other
+913,M,high,56367,WV,apartment
+914,M,medium,87450,OH,lounge
+915,M,very high,57727,AL,lounge
+916,M,very low,71464,CA,apartment
+917,M,medium,63508,OH,warehouse
+918,M,very high,70288,CT,lounge
+919,F,medium,39991,VA,studio
+920,M,low,29428,FL,house
+921,F,medium,23945,GA,apartment
+922,M,very high,54160,NV,house
+923,F,high,97392,MN,apartment
+924,M,very high,33011,MD,house
+925,F,high,50595,MT,lounge
+926,F,very high,34567,TX,apartment
+927,M,medium,9959,KS,lounge
+928,M,very high,42823,OK,studio
+929,M,high,21840,WA,apartment
+930,F,low,94058,SC,house
+931,M,low,11103,NY,house
+932,F,medium,63313,WI,warehouse
+933,M,very low,78400,WA,studio
+934,F,very high,3200,TX,other
+935,M,low,49578,FL,lounge
+936,M,very low,83723,AZ,apartment
+937,M,high,43488,MD,apartment
+938,F,low,49407,NY,studio
+939,F,high,90580,TX,apartment
+940,F,low,8050,OR,warehouse
+941,M,medium,83892,CA,studio
+942,M,medium,26955,SC,apartment
+943,F,medium,67017,VA,other
+944,M,medium,93636,TX,warehouse
+945,M,high,82879,NC,lounge
+946,F,very high,52190,TN,apartment
+947,F,very low,88577,OH,studio
+948,F,very low,41942,NV,lounge
+949,M,very high,833,NC,studio
+950,M,high,2268,CA,other
+951,F,medium,29524,WV,other
+952,F,very low,10859,VA,warehouse
+953,M,medium,5773,FL,warehouse
+954,F,high,40962,OK,lounge
+955,M,very low,33712,TX,studio
+956,F,low,12252,AL,studio
+957,F,very high,93463,FL,studio
+958,F,very low,14312,NY,apartment
+959,F,very low,67131,NY,studio
+960,M,very low,92373,NJ,house
+961,F,medium,42359,NY,lounge
+962,M,high,64029,OH,apartment
+963,M,high,28463,VA,lounge
+964,M,high,26354,HI,apartment
+965,M,high,83615,AR,apartment
+966,F,high,77571,DC,apartment
+967,M,medium,85874,AL,other
+968,M,medium,53671,IN,warehouse
+969,F,very low,2409,CA,warehouse
+970,M,high,22889,TX,studio
+971,M,very low,66929,TX,house
+972,F,high,85312,CA,other
+973,M,low,21203,IN,other
+974,M,high,34934,NM,house
+975,M,high,1339,FL,other
+976,M,very high,68281,NJ,house
+977,F,low,3841,CA,warehouse
+978,F,low,48882,CA,warehouse
+979,M,low,76907,TN,warehouse
+980,F,very high,55597,NY,other
+981,F,medium,32592,NY,studio
+982,F,very low,28261,NJ,studio
+983,M,very high,76241,CO,warehouse
+984,F,very high,47638,NY,lounge
+985,M,high,93224,KS,warehouse
+986,F,very high,39724,TX,studio
+987,M,high,63964,NE,other
+988,F,medium,48409,FL,warehouse
+989,M,high,62195,NC,lounge
+990,M,low,84945,TX,warehouse
+991,M,very high,93849,CT,warehouse
+992,M,very low,78253,GA,other
+993,M,high,8676,CO,warehouse
+994,F,high,18721,TX,studio
+995,F,medium,9259,FL,apartment
+996,F,medium,85765,CA,studio
+997,F,low,32401,TX,house
+998,M,very low,53083,TX,house
+999,F,low,95593,MS,apartment
+1000,M,high,24725,CA,studio
